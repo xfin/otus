@@ -2,7 +2,7 @@
 
 # Настройки
 LOG_DIR="/var/log/nginx"
-EMAIL="xfin@bk.ru"
+EMAIL="to@example.ru"
 STATE="/var/lib/web-report/last_run"
 LOCK="/var/lock/web-report.lock"
 TOP=10
